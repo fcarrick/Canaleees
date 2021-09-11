@@ -1,0 +1,66 @@
+#EXTM3U
+#EXTINF:-1, [COLOR blue][I]-CANALES DE TV-[/COLOR] [/I]
+
+#EXTINF:-1tvg-logo="LINK DEL LOGO DE LA SEÑAL" group-title="AQUÍ ESCRIBE LA CATEGORÍA DE SEÑAL", LA LIGA
+http://egaletv.cc:2082/live/7584212858556975/465hh60kb8/52247.m3u8
+#EXTINF:-1tvg-logo="LINK DEL LOGO DE LA SEÑAL" group-title="AQUÍ ESCRIBE LA CATEGORÍA DE SEÑAL", LA LIGA (OPC 2)
+http://31.220.41.90:8081/live/bein-laliga.stream/chunks.m3u8
+#EXTINF:-1tvg-logo="LINK DEL LOGO DE LA SEÑAL" group-title="AQUÍ ESCRIBE LA CATEGORÍA DE SEÑAL", #VAMOS
+http://bestsave.ltd:8011/live/1020304050/5040302010/83382.m3u8
+#EXTINF:-1tvg-logo="LINK DEL LOGO DE LA SEÑAL" group-title="AQUÍ ESCRIBE LA CATEGORÍA DE SEÑAL", EUROSPORT 1
+http://91.126.141.201:1935/live/smil:eurosport1nntv.smil/playlist.m3u8?Manujaz
+#EXTINF:-1tvg-logo="LINK DEL LOGO DE LA SEÑAL" group-title="AQUÍ ESCRIBE LA CATEGORÍA DE SEÑAL", GOLTV
+https://api.goltelevision.com/api/v1/stream/live/stream.m3u8
+#EXTINF:-1tvg-logo="LINK DEL LOGO DE LA SEÑAL" group-title="AQUÍ ESCRIBE LA CATEGORÍA DE SEÑAL", LA LIGA (OPC 3)
+http://31.220.41.90:8081/live/bein-laliga.stream/chunks.m3u8
+#EXTINF:-1tvg-logo="LINK DEL LOGO DE LA SEÑAL" group-title="AQUÍ ESCRIBE LA CATEGORÍA DE SEÑAL", LA LIGA (OPC 4)
+http://31.220.41.87:8081/live/bein-laliga.stream/playlist.m3u8?justin
+#EXTINF:-1tvg-logo="LINK DEL LOGO DE LA SEÑAL" group-title="AQUÍ ESCRIBE LA CATEGORÍA DE SEÑAL", LA LIGA (OPC 5)
+http://31.220.41.86:8081/live/es-laligatvbar.stream/playlist.m3u8?justin
+#EXTINF:-1tvg-logo="LINK DEL LOGO DE LA SEÑAL" group-title="AQUÍ ESCRIBE LA CATEGORÍA DE SEÑAL", LA LIGA (OPC 6)
+http://31.220.41.87:8081/live/bein-laliga.stream/playlist.m3u8
+#EXTINF:-1tvg-logo="LINK DEL LOGO DE LA SEÑAL" group-title="AQUÍ ESCRIBE LA CATEGORÍA DE SEÑAL", LA LIGA (OPC 7)
+http://31.220.41.90:8081/live/bein-laliga.stream/chunks.m3u8?Mmt
+#EXTINF:-1tvg-logo="LINK DEL LOGO DE LA SEÑAL" group-title="AQUÍ ESCRIBE LA CATEGORÍA DE SEÑAL", LA LIGA (OPC 8)
+http://31.220.41.90:8081/live/es-laligatvbar.stream/playlist.m3u8?Mmt
+#EXTINF:-1tvg-logo="LINK DEL LOGO DE LA SEÑAL" group-title="AQUÍ ESCRIBE LA CATEGORÍA DE SEÑAL", SETANTA SPORTS 1
+http://ott-cdn.ucom.am/s81/03.m3u8?Mmt
+#EXTINF:-1tvg-logo="LINK DEL LOGO DE LA SEÑAL" group-title="AQUÍ ESCRIBE LA CATEGORÍA DE SEÑAL", TDP
+http://91.126.141.13:1935/live/91/1400-def.m3u8
+#EXTINF:-1tvg-logo="LINK DEL LOGO DE LA SEÑAL" group-title="AQUÍ ESCRIBE LA CATEGORÍA DE SEÑAL", LOOKSPORTS 3HD
+https://stream1.1616.ro:1945/looksport3/livestream/playlist.m3u8?wowzatokenendtime=1608539469&wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIb
+#EXTINF:-1tvg-logo="LINK DEL LOGO DE LA SEÑAL" group-title="AQUÍ ESCRIBE LA CATEGORÍA DE SEÑAL", LA LIGA (OPC 9)
+http://31.220.41.90:8081/live/bein-laliga.stream/chunks.m3u8
+#EXTINF:-1tvg-logo="LINK DEL LOGO DE LA SEÑAL" group-title="AQUÍ ESCRIBE LA CATEGORÍA DE SEÑAL", LA LIGA (OPC 10)
+http://31.220.41.87:8081/live/bein-laliga.stream/playlist.m3u8
+#EXTINF:-1tvg-logo="LINK DEL LOGO DE LA SEÑAL" group-title="AQUÍ ESCRIBE LA CATEGORÍA DE SEÑAL", LA LIGA (OPC 11)
+http://31.220.41.90:8081/live/es-laligatvbar.stream/playlist.m3u8
+#EXTINF:-1tvg-logo="LINK DEL LOGO DE LA SEÑAL" group-title="AQUÍ ESCRIBE LA CATEGORÍA DE SEÑAL", TDP (OPC 2)
+https://rtvelivestreamv3.akamaized.net:443/tdp_main_720.m3u8
+#EXTINF:-1tvg-logo="LINK DEL LOGO DE LA SEÑAL" group-title="AQUÍ ESCRIBE LA CATEGORÍA DE SEÑAL", LA LIGA (OPC 12)
+http://31.220.41.90:8081/live/es-laligatvbar.stream/playlist.m3u8
+#EXTINF:-1tvg-logo="LINK DEL LOGO DE LA SEÑAL" group-title="AQUÍ ESCRIBE LA CATEGORÍA DE SEÑAL", BEIN SPORT 1 
+http://sos.moukrasa.xyz/live/6161655/index.m3u8
+#EXTINF:-1tvg-logo="LINK DEL LOGO DE LA SEÑAL" group-title="AQUÍ ESCRIBE LA CATEGORÍA DE SEÑAL", GOL PERU 
+https://vid.addyadds.us/static/streaming-playlists/hls/dcb6a0fa-3b81-4a49-a4e7-1437d864a086/0.m3u8?SBN
+#EXTINF:-1tvg-logo="LINK DEL LOGO DE LA SEÑAL" group-title="AQUÍ ESCRIBE LA CATEGORÍA DE SEÑAL", DEPORTV 
+https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/chunklist_w2092260374.m3u8?SBN
+#EXTINF:-1tvg-logo="LINK DEL LOGO DE LA SEÑAL" group-title="AQUÍ ESCRIBE LA CATEGORÍA DE SEÑAL", #VAMOS (OPC 2)
+http://mag.you24.online:8080/live/jl0qkaqlk/xs7kkwo0yo/682871.m3u8?SBN
+#EXTINF:-1tvg-logo="LINK DEL LOGO DE LA SEÑAL" group-title="AQUÍ ESCRIBE LA CATEGORÍA DE SEÑAL", LIGA DE CAMPEONES 
+http://x00.so/live/Marc1234/1234Marc/124465.m3u8?SBN
+#EXTINF:-1tvg-logo="LINK DEL LOGO DE LA SEÑAL" group-title="AQUÍ ESCRIBE LA CATEGORÍA DE SEÑAL", EUROSPORT 2
+http://91.126.141.201:1935/live/eurosport2hdnntv/chunklist_w1420994503.m3u8?Richi
+#EXTINF:-1tvg-logo="LINK DEL LOGO DE LA SEÑAL" group-title="AQUÍ ESCRIBE LA CATEGORÍA DE SEÑAL", EUROSPORT 2 (OPC 2)
+http://91.126.141.201:1935/live/eurosport2hdnntv/chunklist_w1420994503.m3u8
+#EXTINF:-1tvg-logo="LINK DEL LOGO DE LA SEÑAL" group-title="AQUÍ ESCRIBE LA CATEGORÍA DE SEÑAL", NOMBRE DE LA SEÑAL
+
+#EXTINF:-1tvg-logo="LINK DEL LOGO DE LA SEÑAL" group-title="AQUÍ ESCRIBE LA CATEGORÍA DE SEÑAL", NOMBRE DE LA SEÑAL
+
+#EXTINF:-1tvg-logo="LINK DEL LOGO DE LA SEÑAL" group-title="AQUÍ ESCRIBE LA CATEGORÍA DE SEÑAL", NOMBRE DE LA SEÑAL
+
+#EXTINF:-1tvg-logo="LINK DEL LOGO DE LA SEÑAL" group-title="AQUÍ ESCRIBE LA CATEGORÍA DE SEÑAL", NOMBRE DE LA SEÑAL
+
+#EXTINF:-1tvg-logo="LINK DEL LOGO DE LA SEÑAL" group-title="AQUÍ ESCRIBE LA CATEGORÍA DE SEÑAL", NOMBRE DE LA SEÑAL
+
+#EXTINF:-1tvg-logo="LINK DEL LOGO DE LA SEÑAL" group-title="AQUÍ ESCRIBE LA CATEGORÍA DE SEÑAL", NOMBRE DE LA SEÑAL
