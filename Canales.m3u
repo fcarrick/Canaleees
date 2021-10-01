@@ -2,13 +2,97 @@
 #EXTINF:-1, [COLOR blue][I]-CANALES DE TV-[/COLOR] [/I]
 
 
-#EXTINF:-1tvg-logo="LINK DEL LOGO DE LA SEÑAL" group-title="AQUÍ ESCRIBE LA CATEGORÍA DE SEÑAL", movistar la liga
+#EXTINF:-1tvg-logo="LINK DEL LOGO DE LA SEÑAL" group-title="AQUÍ ESCRIBE LA CATEGORÍA DE SEÑAL", Premier league
+https://d3rmntxyvr9780.cloudfront.net/out/v1/77efb8efb34d4b38a8d7f890cfbdcbba/index.m3u8
+#EXTINF:-1tvg-logo="LINK DEL LOGO DE LA SEÑAL" group-title="AQUÍ ESCRIBE LA CATEGORÍA DE SEÑAL", Premier league opc 2
+http://tv.cablelatino.xyz/hls/CODO/ESPN3_LAT.m3u8
+#EXTINF:-1tvg-logo="LINK DEL LOGO DE LA SEÑAL" group-title="AQUÍ ESCRIBE LA CATEGORÍA DE SEÑAL",Premier league opc 3
+https://tv1.calcio01.pw/live/city.m3u8
+#EXTINF:-1tvg-logo="LINK DEL LOGO DE LA SEÑAL" group-title="AQUÍ ESCRIBE LA CATEGORÍA DE SEÑAL", Premier league opc 4
+http://3.amaniyouhra.xyz/live/6161655/index.m3u8
+#EXTINF:-1tvg-logo="LINK DEL LOGO DE LA SEÑAL" group-title="AQUÍ ESCRIBE LA CATEGORÍA DE SEÑAL", Premier league opc 5
+https://cdn.raino.xyz/soccer/soccer12-version0/rainostream.m3u8
+#EXTINF:-1tvg-logo="LINK DEL LOGO DE LA SEÑAL" group-title="AQUÍ ESCRIBE LA CATEGORÍA DE SEÑAL", Premier league opc 6
+https://186267359.global.cdnfastest.com/live/17373506067e0c249a3a0565a078c287da4/playlist.m3u8
+#EXTINF:-1tvg-logo="LINK DEL LOGO DE LA SEÑAL" group-title="AQUÍ ESCRIBE LA CATEGORÍA DE SEÑAL", Movistar la liga
+https://www.uncdp.com/proxy.php/http://31.220.41.90:8081/live/bein-laliga.stream/playlist.m3u8
+#EXTINF:-1tvg-logo="LINK DEL LOGO DE LA SEÑAL" group-title="AQUÍ ESCRIBE LA CATEGORÍA DE SEÑAL", Movistar la liga opc 2
+https://www.uncdp.com/proxy.php/http://31.220.41.86:8081/live/es-laligatvbar.stream/playlist.m3u8
+#EXTINF:-1tvg-logo="LINK DEL LOGO DE LA SEÑAL" group-title="AQUÍ ESCRIBE LA CATEGORÍA DE SEÑAL", Movistar la liga opc 3
+http://116.203.143.191/video/movistar_laliga/index.m3u8
+#EXTINF:-1tvg-logo="LINK DEL LOGO DE LA SEÑAL" group-title="AQUÍ ESCRIBE LA CATEGORÍA DE SEÑAL", Movistar la liga opc 4
 http://cdn99.one/ivo123/ivo1234/124446.m3u8
-#EXTINF:-1tvg-logo="LINK DEL LOGO DE LA SEÑAL" group-title="AQUÍ ESCRIBE LA CATEGORÍA DE SEÑAL",movistar la liga opc 2
+#EXTINF:-1tvg-logo="LINK DEL LOGO DE LA SEÑAL" group-title="AQUÍ ESCRIBE LA CATEGORÍA DE SEÑAL", Movistar la liga opc 5
 http://x00.so/live/Marc1234/1234Marc/124446.m3u8
-#EXTINF:-1tvg-logo="LINK DEL LOGO DE LA SEÑAL" group-title="AQUÍ ESCRIBE LA CATEGORÍA DE SEÑAL",eleven sports
-https://newedge.eu-central-1.edge.mycdn.live:443/live/esportes1/esportes1_2000/index.m3u8
-#EXTINF:-1tvg-logo="LINK DEL LOGO DE LA SEÑAL" group-title="AQUÍ ESCRIBE LA CATEGORÍA DE SEÑAL",nbc golf
-http://198.144.159.40/gls/playlist.m3u8?co=53314d4cdb532623efa76651a0d29c2f?per
-#EXTINF:-1tvg-logo="LINK DEL LOGO DE LA SEÑAL" group-title="AQUÍ ESCRIBE LA CATEGORÍA DE SEÑAL", #vamos
-http://cdn99.one/bruno123/bruno1234/124392.m3u8
+#EXTINF:-1tvg-logo="LINK DEL LOGO DE LA SEÑAL" group-title="AQUÍ ESCRIBE LA CATEGORÍA DE SEÑAL", Movistar la liga opc 6
+http://player.ukwtv.com:8080/live/3173434353113478/2598854265/193275.m3u8
+#EXTINF:-1tvg-logo="LINK DEL LOGO DE LA SEÑAL" group-title="AQUÍ ESCRIBE LA CATEGORÍA DE SEÑAL", Movistar la liga opc 7
+http://player.ukwtv.com:8080/live/3173434353113478/2598854265/193301.m3u8
+#EXTINF:-1tvg-logo="LINK DEL LOGO DE LA SEÑAL" group-title="AQUÍ ESCRIBE LA CATEGORÍA DE SEÑAL", Movistar la liga opc 8
+http://clientsportals.net:8080/live/hp9PLnE6uf/CmQDP8SY7t/1042.m3u8
+#EXTINF:-1tvg-logo="LINK DEL LOGO DE LA SEÑAL" group-title="AQUÍ ESCRIBE LA CATEGORÍA DE SEÑAL", Movistar la liga opc 9
+http://tv.iptv5latino.cl:8080/live/NikolasIgnacio/6rQo6gx8Ii/45690.m3u8
+#EXTINF:-1tvg-logo="LINK DEL LOGO DE LA SEÑAL" group-title="AQUÍ ESCRIBE LA CATEGORÍA DE SEÑAL", Movistar la liga opc 10
+http://93.157.62.180:80/ArenaSport1/tracks-v1a1/mono.m3u8
+#EXTINF:-1tvg-logo="LINK DEL LOGO DE LA SEÑAL" group-title="AQUÍ ESCRIBE LA CATEGORÍA DE SEÑAL", Movistar la liga opc 11
+http://nflup.live/gu/11la.m3u8
+#EXTINF:-1tvg-logo="LINK DEL LOGO DE LA SEÑAL" group-title="AQUÍ ESCRIBE LA CATEGORÍA DE SEÑAL", Movistar liga de campeones
+http://77.247.109.101/hls/A1.m3u8
+#EXTINF:-1tvg-logo="LINK DEL LOGO DE LA SEÑAL" group-title="AQUÍ ESCRIBE LA CATEGORÍA DE SEÑAL", Movistar liga de campeones opc 1
+http://77.83.117.60:8888/02_BTSPORTHD_1_720p/chunklist.m3u8
+#EXTINF:-1tvg-logo="LINK DEL LOGO DE LA SEÑAL" group-title="AQUÍ ESCRIBE LA CATEGORÍA DE SEÑAL", Movistar liga de campeones opc 2
+https://tv1.calcio01.pw/live/siviglia.m3u8
+#EXTINF:-1tvg-logo="LINK DEL LOGO DE LA SEÑAL" group-title="AQUÍ ESCRIBE LA CATEGORÍA DE SEÑAL", Movistar liga de campeones opc 3
+https://google-me.cdn.booyah.live/hls/113132/86056279.m3u8
+#EXTINF:-1tvg-logo="LINK DEL LOGO DE LA SEÑAL" group-title="AQUÍ ESCRIBE LA CATEGORÍA DE SEÑAL", Movistar liga de campeones opc 4
+https://d1ylwdjp3ejgzs.cloudfront.net:443/out/v1/67ae51a3b3de4653a75ce00b675d1f9a/index_1.m3u8
+#EXTINF:-1tvg-logo="LINK DEL LOGO DE LA SEÑAL" group-title="AQUÍ ESCRIBE LA CATEGORÍA DE SEÑAL", Movistar liga de campeones opc 5
+http://18.alysineoura.xyz/live/616194987/index.m3u8
+#EXTINF:-1tvg-logo="LINK DEL LOGO DE LA SEÑAL" group-title="AQUÍ ESCRIBE LA CATEGORÍA DE SEÑAL", Movistar liga de campeones 1
+https://dl9shgxyr5ah6.cloudfront.net:443/out/v1/ddf299570bda41fea428c3eb5a6e1640/index_1.m3u8
+#EXTINF:-1tvg-logo="LINK DEL LOGO DE LA SEÑAL" group-title="AQUÍ ESCRIBE LA CATEGORÍA DE SEÑAL", DAZN F1
+https://www.uncdp.com/proxy.php/http://31.220.41.87:8081/live/es-moviestarf1.stream/playlist.m3u8
+#EXTINF:-1tvg-logo="LINK DEL LOGO DE LA SEÑAL" group-title="AQUÍ ESCRIBE LA CATEGORÍA DE SEÑAL", DAZN F1 opc 2
+https://www.uncdp.com/proxy.php/http://stream.tvtap.live:8081/live/es-moviestarf1.stream/playlist.m3u8
+#EXTINF:-1tvg-logo="LINK DEL LOGO DE LA SEÑAL" group-title="AQUÍ ESCRIBE LA CATEGORÍA DE SEÑAL", DAZN F1 opc 3
+https://www.uncdp.com/proxy.php/http://stream.tvtap.live:8081/live/skysportsf1.stream/playlist.m3u8
+#EXTINF:-1tvg-logo="LINK DEL LOGO DE LA SEÑAL" group-title="AQUÍ ESCRIBE LA CATEGORÍA DE SEÑAL", DAZN F1 opc 4
+https://www.uncdp.com/proxy.php/http://31.220.41.87:8081/live/nl-ziggoracing.stream/playlist.m3u8
+#EXTINF:-1tvg-logo="LINK DEL LOGO DE LA SEÑAL" group-title="AQUÍ ESCRIBE LA CATEGORÍA DE SEÑAL", DAZN F1 opc 5
+https://www.uncdp.com/proxy.php/http://31.220.41.87:8081/live/skysportsf1.stream/playlist.m3u8
+#EXTINF:-1tvg-logo="LINK DEL LOGO DE LA SEÑAL" group-title="AQUÍ ESCRIBE LA CATEGORÍA DE SEÑAL", DAZN F1 opc 6
+http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8
+#EXTINF:-1tvg-logo="LINK DEL LOGO DE LA SEÑAL" group-title="AQUÍ ESCRIBE LA CATEGORÍA DE SEÑAL", DAZN F1 opc 7
+https://68.183.154.159:443/hls/spf1general.m3u8
+#EXTINF:-1tvg-logo="LINK DEL LOGO DE LA SEÑAL" group-title="AQUÍ ESCRIBE LA CATEGORÍA DE SEÑAL", DAZN F1 opc 8
+http://89.187.185.100:80/SKY_SPORTS_F1/tracks-v1a1/mono.m3u8
+#EXTINF:-1tvg-logo="LINK DEL LOGO DE LA SEÑAL" group-title="AQUÍ ESCRIBE LA CATEGORÍA DE SEÑAL", DAZN F1 opc 9
+https://tv3.calcio01.pw/live/formula.m3u8
+#EXTINF:-1tvg-logo="LINK DEL LOGO DE LA SEÑAL" group-title="AQUÍ ESCRIBE LA CATEGORÍA DE SEÑAL", DAZN F1 opc 10
+http://cd2.cricworld.club:8080/hls/f1/index.m3u8
+#EXTINF:-1tvg-logo="LINK DEL LOGO DE LA SEÑAL" group-title="AQUÍ ESCRIBE LA CATEGORÍA DE SEÑAL", MOTO GP
+http://x00.so/live/Marc1234/1234Marc/124421.m3u8
+#EXTINF:-1tvg-logo="LINK DEL LOGO DE LA SEÑAL" group-title="AQUÍ ESCRIBE LA CATEGORÍA DE SEÑAL", MOTO GP opc 2
+http://185.255.120.103:8888/02_BTSPORTHD_2_720p/chunklist.m3u8
+#EXTINF:-1tvg-logo="LINK DEL LOGO DE LA SEÑAL" group-title="AQUÍ ESCRIBE LA CATEGORÍA DE SEÑAL", MOTO GP opc 3
+http://77.247.109.101/hls/A1.m3u8
+#EXTINF:-1tvg-logo="LINK DEL LOGO DE LA SEÑAL" group-title="AQUÍ ESCRIBE LA CATEGORÍA DE SEÑAL", MOTO GP opc 4
+https://tv3.calcio01.pw/live/moto.m3u8
+#EXTINF:-1tvg-logo="LINK DEL LOGO DE LA SEÑAL" group-title="AQUÍ ESCRIBE LA CATEGORÍA DE SEÑAL", MOTO GP opc 5
+https://13.251.228.53:443/live-player/20/live.m3u8
+#EXTINF:-1tvg-logo="LINK DEL LOGO DE LA SEÑAL" group-title="AQUÍ ESCRIBE LA CATEGORÍA DE SEÑAL", MOTO GP opc 6
+http://55.abdakaroukhai.xyz/live/9787488847/index.m3u8?per
+#EXTINF:-1tvg-logo="LINK DEL LOGO DE LA SEÑAL" group-title="AQUÍ ESCRIBE LA CATEGORÍA DE SEÑAL", MOTO GP opc 7
+http://185.53.89.48/live/dod.m3u8
+#EXTINF:-1tvg-logo="LINK DEL LOGO DE LA SEÑAL" group-title="AQUÍ ESCRIBE LA CATEGORÍA DE SEÑAL", LA 1
+https://rtvelivestreamv3.akamaized.net/la1_main_dvr.m3u8
+#EXTINF:-1tvg-logo="LINK DEL LOGO DE LA SEÑAL" group-title="AQUÍ ESCRIBE LA CATEGORÍA DE SEÑAL", LA 1 opc 2
+https://rtvelivestreamv3.akamaized.net/rtvesec/la1_bkp_dvr.m3u8
+#EXTINF:-1tvg-logo="LINK DEL LOGO DE LA SEÑAL" group-title="AQUÍ ESCRIBE LA CATEGORÍA DE SEÑAL", LA 1 opc 3
+https://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8
+#EXTINF:-1tvg-logo="LINK DEL LOGO DE LA SEÑAL" group-title="AQUÍ ESCRIBE LA CATEGORÍA DE SEÑAL", LA 2
+https://rtvelivestreamv3.akamaized.net/la2_main_dvr.m3u8
+#EXTINF:-1tvg-logo="LINK DEL LOGO DE LA SEÑAL" group-title="AQUÍ ESCRIBE LA CATEGORÍA DE SEÑAL", LA 2 opc 2
+https://rtvelivestreamv3.akamaized.net/rtvesec/la2_bkp_dvr.m3u8
+#EXTINF:-1tvg-logo="LINK DEL LOGO DE LA SEÑAL" group-title="AQUÍ ESCRIBE LA CATEGORÍA DE SEÑAL", LA 2 opc 3
+https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8
